@@ -14,7 +14,7 @@ At the moment, the project tech-stack uses:
 This tech-stack is not scalable. Open questions:
 
 - `mySQL` to store data or `postgres`? Or, something else?
-- `OpenAPIspecs` for the API or `graphQL`?
+- `REST` API or `graphQL`?
 -  Hosting?
 
 Feedback, thoughts, and contributions welcome! Just log an Issue.
