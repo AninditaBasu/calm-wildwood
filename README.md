@@ -1,8 +1,8 @@
 # calm-wildwood
 
-This is the place to gather feedback for the great mahabharat project, an MVP version of which is live at https://mb-verse.herokuapp.com.
+This is the place to gather feedback for the great mahabharat project, version1.0 of which is live at https://mb-verse.herokuapp.com.
 
-The intention is to release an API for the Mahabharat data, and, then, to build a chatbot.
+The intention is to release an API for the Mahabharat data.
 
 At the moment, the project tech-stack uses:
 
