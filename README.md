@@ -9,7 +9,7 @@ At the moment, the project tech-stack uses:
 - `json` to store data
 - `python` to process data
 - `flask` for the front end
-- `heroku` as the deployment and hosting service
+- ~`heroku`~ `render.com` as the deployment and hosting service
 
 This tech-stack is not scalable. Open questions:
 
