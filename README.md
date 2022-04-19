@@ -1,6 +1,6 @@
 # calm-wildwood
 
-This is the place to gather feedback for the great mahabharat project, version1.0 of which is live at https://mb-verse.herokuapp.com.
+This is the place to gather feedback for the great mahabharat project, version1.0 of which is live at ~https://mb-verse.herokuapp.com~ https://mahabharat.onrender.com.
 
 The intention is to release an API for the Mahabharat data.
 
